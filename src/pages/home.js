@@ -15,7 +15,7 @@ function Home() {
         <Row>
           <Col size="md-12">
             <p>
-            <img src="./assets/Profilepic.jpg" width="150" align="left" style="margin:0 20px 0 0"/>
+            {/* <img src="./assets/Profilepic.jpg" width="150" align="left" style="margin:0 20px 0 0"/> */}
             My name is Nichole Steig and
                     I'm a Seattle native currently living with my partner and our
                     two cats.
